@@ -1,0 +1,18 @@
+#configuratons used in this test
+
+parameters to generate mesh:
+inner_bdry = 1.7
+mesh_len = 8.3
+mg_func = 1
+mg_order = 1.0
+hmin = 0.03
+hmax = 0.03
+refine_time = 0
+
+resulted mesh:
+num_vertices = 278
+minimum of h = 0.02999999999999936
+maximum of h = 0.03000000000000025
+
+others:
+DG_degree = 1
